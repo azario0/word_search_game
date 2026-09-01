@@ -80,6 +80,10 @@ COLOR_LETTER = (200, 220, 255)      # Bright star white
 # ... and so on
 ```
 
+## Tutorial 
+
+https://softwarejournal.blog/blog/demystifying-cosmic-word-search-game-python-pygame/
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
